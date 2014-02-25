@@ -23,7 +23,7 @@ This gem displays 5 star rating in a view. once you install this gem, you get a 
 
 It will also round the rating so if you pass 2.21 as the rating it will display 2 stars. 
 
-render_stars(2.5) 
+<%= render_stars(2.5) %>
 
 ###Override
  To override the image and css simply add a image or css with name star_ratings.png or star_ratings.css in your app/assets folder.
