@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["manishspuri@gmail.com"]
   spec.summary       = %q{A simple engine to display star ratings in rails}
   spec.description   = %q{A simple engine to display star ratings in rails}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/Manik-Ratnas/star_ratings"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
